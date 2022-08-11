@@ -36,7 +36,7 @@
                                 <div class="card position-relative">
                                     <div class="wallpp">
                                     <img src="{{$data->file_path}}" class="img">
-                                    <i class="bi bi-play-circle position-absolute top-50 start-50 translate-middle text-white fs-1"></i>
+                                    <i class="bi bi-play-circle btn-play"></i>
                                     <p class="txt">{{$data->name}}</p>
                                     </div>
                                     <div class="backg"></div>
